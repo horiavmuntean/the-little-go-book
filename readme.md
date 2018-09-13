@@ -74,3 +74,7 @@ Run `make en/go.mobi`.
 
 ## Title Image ##
 A PSD of the title image is included. The font used is [Comfortaa](http://www.dafont.com/comfortaa.font).
+
+
+## Pushover ##
+Test pushover notifications
